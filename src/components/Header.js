@@ -1,11 +1,11 @@
 const Header = () => {
   return (
-    <div className="border-solid width-full p-4 flex border-cyan-500 m-2">
+    <div className=" flex border-cyan-500 m-4 border-2 rounded-lg">
       <div className="items-center px-4 mx-4">
         <img
           src="https://m.media-amazon.com/images/I/51K9YDu2QZL._AC_UF1000,1000_QL80_.jpg"
           alt="logo"
-          className="w-28 object-cover"
+          className="w-28 object-cover p-2"
         />
       </div>
       <div className="flex items-center w-full bg-neutral-200">
